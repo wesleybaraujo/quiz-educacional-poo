@@ -1,0 +1,58 @@
+{
+    "perguntas": [
+        {
+            "uid": "07a50607-c0ba-4ba9-ae9d-d705aeb82f67",
+            "_enunciado": "Quanto \u00e9 5 x 5",
+            "_alternativas": [
+                "20",
+                "30",
+                "25",
+                "40"
+            ],
+            "_correta_idx": 2,
+            "_dificuldade": "FACIL",
+            "_tema": "Math"
+        }
+    ],
+    "quizzes": [
+        {
+            "uid": "90ae6fb7-0eb6-4300-acd4-3b00c2ce42e5",
+            "titulo": "MATH",
+            "_perguntas": [
+                {
+                    "uid": "07a50607-c0ba-4ba9-ae9d-d705aeb82f67",
+                    "_enunciado": "Quanto \u00e9 5 x 5",
+                    "_alternativas": [
+                        "20",
+                        "30",
+                        "25",
+                        "40"
+                    ],
+                    "_correta_idx": 2,
+                    "_dificuldade": "FACIL",
+                    "_tema": "Math"
+                }
+            ]
+        }
+    ],
+    "usuarios": [
+        {
+            "uid": "281e2479-99df-42f5-9c13-c9b3c14523da",
+            "nome": "LUIZ TESTE",
+            "email": "FILIPY_LUIZ@HOTMAIL.COM",
+            "matricula": "20",
+            "tentativas": [
+                {
+                    "uid": "457e5ae3-47a6-45b0-bfc0-d7ee8a746a81",
+                    "usuario_id": "281e2479-99df-42f5-9c13-c9b3c14523da",
+                    "quiz_id": "90ae6fb7-0eb6-4300-acd4-3b00c2ce42e5",
+                    "respostas": [
+                        2
+                    ],
+                    "pontuacao": 1,
+                    "data_hora": "2026-01-09T20:36:08.084217"
+                }
+            ]
+        }
+    ]
+}

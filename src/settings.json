@@ -1,0 +1,9 @@
+{
+    "duracao_padrao_minutos": 10,
+    "max_tentativas_usuario": 3,
+    "pesos_dificuldade": {
+        "FACIL": 1,
+        "MEDIO": 2,
+        "DIFICIL": 3
+    }
+}
